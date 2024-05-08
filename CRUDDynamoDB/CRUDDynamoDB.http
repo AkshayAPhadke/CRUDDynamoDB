@@ -1,0 +1,6 @@
+@CRUDDynamoDB_HostAddress = http://localhost:5195
+
+GET {{CRUDDynamoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
